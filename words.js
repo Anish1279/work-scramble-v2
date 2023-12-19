@@ -1,4 +1,4 @@
-const words=[
+const words=[ 
     {
         word:"child-labour",
         imghint:"child-labour.jpeg",
